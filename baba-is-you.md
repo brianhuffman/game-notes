@@ -131,23 +131,23 @@ Push two words into water.
 
 Push "text-is-float" and two cogs into "win" from left. Make baba-is-win.
 
-### 06. Assembly Team (removed)
-
-Push "baba" left. Put one robot in water. Make baba-is-you.
-
 ### 06. Research Facility
 
 Push bolt level with keke, facing right. Make bolt-is-move. Break skull-is-hot to make skull-is-defeat. Wait for bolt to break skull-is-defeat. Make bolt-is-win.
 
-### 07. Tiny Pond
+### 07. Assembly Team
+
+Push "baba" left. Put one robot in water. Make baba-is-you.
+
+### 08. Tiny Pond
 
 Make flag-is-key. Make key-is-you-and-open. Break water to the left of "win". Make baba-is-open-and-win.
 
-### 08. Catch the Thief!
+### 09. Catch the Thief!
 
 Push baba-is-you down three times. Break robot-is-move when robot passes skulls. Make robot-is-baba. Make baba-is-win.
 
-### 09. Wireless Connection
+### 10. Wireless Connection
 
 Make cog-is-push. Push cog between "flag" and "rock", facing right. Make cog-is-move. Stop when cog is one block right of "flag". Make cog-is-stop. Push "and" to face cog. Make robot-is-push, push robot to face cog. Make robot-is-move, to make flag-and-rock. Make robot-is-push. Make robot-is-move so robot pushes "is" to make flag-and-rock-is-win.
 
@@ -156,11 +156,11 @@ OR
 Make cog-is-robot. Push robots one above the other, facing right, on the rows above and below "rock". Put "and" and "is" in front of robots. Make robot-is-move. Stand on flag and wait to make flag-and-rock-is-win.
 
 
-### 10. Prison
+### 11. Prison
 
 TODO
 
-### 11. Evaporating River
+### 12. Evaporating River
 
 TODO
 
@@ -183,15 +183,229 @@ Make cog-is-robot. Line up is-cog-stop with bottom gap. Push robot next to it, m
 
 --------------------------------------------------------------------------------
 ## 3. Temple Ruins
+
+### 01. Fragility
+
+Make skull-is-weak. Push rock through two skulls. Make rock-is-weak.
+
+### 02. Tunnel Vision
+
+Let baba sink. Make rock-has-rock. Push rock through water.
+
+### 03. A Present for You
+
+Make box-is-you. Push "is" and "melt" back across water. Make love-is-you, box-is-melt, and box-is-push. Push box into water.
+
+### 04. Unreachable Shores
+
+Make box-is-you. Make keke-is-push. Push keke into water. Make box-has-box. Cross water to flag.
+
+### 05. But Where's the Key
+
+Make baba-is-you-and-weak, baba-has-box, and box-is-you. Make box-has-box-and-key, box-is-you, and box-is-weak. Walk into something to make key. Make key-is-you.
+
+### 06. Love Is Out There
+
+Make box-has-key-and-box, key-is-push. Break box, push keys through doors.
+
+### 07. Perilous Gang
+
+Push ghosts on two rows below "skull", facing right. Put "is" and "push" in front of ghosts. Make ghost-is-move. Wait and break ghost-is-move to make skull-is-push. Make skull-is-flag.
+
+### 08. Double Moat
+
+Push baba-is-you down twice. Make keke-is-you (from the right). Make baba-is-you (from the left). Make keke-has-baba, keke-is-move. Wait for keke to break door. Make baba-has-keke. Walk into water by flag. Make keke-is-move. Make keke-is-you.
+
+### 09. Walls of Gold
+
+Make wall-is-rock. Make rock-is-win and rock-is-you.
+
+### Extra 1. Further Fields
+
+**UNSOLVED**
+
 --------------------------------------------------------------------------------
 ## 4. Forest of Fall
+
+### 01. Hop
+
+Push "push" through teleport. Make love-is-push. Push heart on water. Make love-is-tele.
+
+### 02. Grand Stream
+
+Break keke-is-move. Make keke-is-key and key-is-pull. Pull key to box.
+
+### 03. Rocky Road
+
+Push "rock-is-tele" right twice. Make rock-is-push with "push" on rock. Teleport through rock, and push rock down through water.
+
+### 04. Telephone
+
+Make ice-is-tele. Go through teleport. Break key-is-push. Make baba-is-tele. Teleport key. Break baba-is-tele. Make key-is-push. Push key onto door.
+
+### 05. Haunt
+
+Make ghost-is-push. Push ghost to left of "leaf". Make ghost-is-tele. Push "leaf" and "is" onto ghost. Make love-is-win.
+
+### 06. Crate Square
+
+**UNSOLVED**
+
+### 07. Ghost Friend
+
+**UNSOLVED**
+
+### 08. Ghost Guard
+
+**UNSOLVED**
+
+### 10. Not There
+
+Make fence-is-not-stop. Make fence-is-win.
+
+### 11. Catch
+
+**UNSOLVED**
+
+### 12. Dead End
+
+Make box-is-not-not-push. Push two boxes onto water.
+
+### Extra 1. Jump
+
+Push "push" through teleport. Push "love-is-tele" across water. Push "push" onto "tele". Make love-is-push. Push heart onto water by flag. Make love-is-tele.
+
+### Extra 2. Even Less There
+
+Push baba-is-you left to the fence. Make fence-is-not-stop. Push baba-is-you left onto fence. Make fence-is-not-stop. Push "win" onto fence left of "not". Make fence-is-win.
+
 --------------------------------------------------------------------------------
 ## 5. Deep Forest
+
+### 01. Renovating
+
+Make belt-is-push. Push belt onto wall. Make belt-is-shift. Repeat.
+
+### 02. Toolshed
+
+Make wall-is-shut. Make door-is-open. Push door onto wall left of "win". Make key-is-win.
+
+### 03. Keep Out!
+
+Pull tree level with belt. Make belt-is-pull. Pull belt around left of tree. Pull belt (with tree) to corner of passage. Make tree-is-pull. Pull tree onto fungus.
+
+### 04. Baba Doesn't Respond
+**UNSOLVED**
+
+### 06. Canyon
+
+Make belt-is-up. Make baba-is-shift. Push belt to corner right of ghost. Make belt-is-up. Make belt-is-shift. Push ghost onto belt, then onto flowers.
+
+### 07. Concrete Goals
+
+Push belts to break wall-is-stop. Make flag-is-push. Break belt-is-shift. Push flag onto start of belt. Make belt-is-shift near end of belt and wait for flag.
+
+### 08. Victory in the Open
+
+Alternately make keke-is-up, keke-is-right, keke-is-move to make keke push "win" across flowers. Make keke-is-win.
+
+### 09. Moving Floor
+
+Push flags onto bottom bug. Push "win" right. Push two words onto each bug. Make baba-is-win.
+
+### 10. Supermarket
+**UNSOLVED**
+
+### 11. Lock the Door
+**UNSOLVED**
+
+### 12. Skull House
+**UNSOLVED**
+
+### A. Nearly
+
+Break baba-is-swap.
+
+### B. Not Quite
+
+Move flag up three. Push "win" right. Push "win" left.
+
+### C. Passing Through
+
+Make keke-is-skull. Make skull-is-push. Make skull face right. Make skull-is-keke, keke-is-move. Wait to swap grass. Make keke-is-skull, skull-is-move. Wait until skull is left of grass. Make skull-is-keke, keke-is-move. Wait to swap grass.
+
+### D. Salvage
+
+### E.
+**UNSOLVED**
+
+### Extra 1. Crumbling Floor
+
+Push flags onto bottom bug. Push "win" right. Push three words onto top bug. Make baba-is-win.
+
+
 --------------------------------------------------------------------------------
 ## 6. Rocket Trip
+
+### 01. Empty
+
+Make empty-is-flag.
+
+### 02. Lonely Flag
+
+Make door-is-empty. Make empty-is-baba.
+
+### 03. Babas Are You
+
+Move left 3, up 1, down 1. Make rock-is-empty. Break empty-is-baba. Make ice-is-win.
+
+### 04.
+### 05.
+### 06.
+### 07.
+**UNSOLVED**
+### 08.
+**UNSOLVED**
+### 09.
+**UNSOLVED**
+### 11.
+**UNSOLVED**
+### 12.
+**UNSOLVED**
+
 --------------------------------------------------------------------------------
 ## 7. Flower Garden
+
+### 01.
+### 02.
+### 03.
+### 04.
+### 05.
+**UNSOLVED**
+### 06.
+**UNSOLVED**
+### 07.
+**UNSOLVED**
+### Extra 2.
+**UNSOLVED**
+
 --------------------------------------------------------------------------------
 ## 8. Volcanic Cavern
+
+### 01. Mouse Hole
+**UNSOLVED**
+
 --------------------------------------------------------------------------------
 ## 9. Chasm
+
+### A.
+### B.
+### C.
+### D.
+### E.
+**UNSOLVED**
+### F.
+### H.
+**UNSOLVED**
+### Extra 1.
+**UNSOLVED**
