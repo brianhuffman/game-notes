@@ -35,6 +35,16 @@ Break wall-is-stop, make wall-is-you.
 
 Make flag-is-win.
 
+### 08: Slideshow
+
+Move left 2, up 3, right 12, down 3, left 2.
+
+### 09: Fragile Existence
+
+Make key-is-you, baba-is-you, ... level-is-baba.
+
+### 10: Hostile Environment
+
 ### Finale: A Way Out?
 
 Push Keke level with top belt, facing L/R. Push "push" on top belt. Make keke-is-move. Push "is" on second-from-right ice. Go through right-most ice. Make rock-is-push. Escape through top ice. Push rock down, make rock-is-weak. Break rock and make flag-is-win.
@@ -158,7 +168,7 @@ Make cog-is-robot. Push robots one above the other, facing right, on the rows ab
 
 ### 11. Prison
 
-TODO
+Make keke-is-push. Push keke below "stop". Break keke-is-push. Push "wall" down. Make keke-is-you. Push "wall-is" up. Make wall-is-win.
 
 ### 12. Evaporating River
 
@@ -180,6 +190,9 @@ Make flag-is-key. Make key-is-you-and-open. Break water to the left of "win". Ma
 
 Make cog-is-robot. Line up is-cog-stop with bottom gap. Push robot next to it, make robot-is-move. When robots come back, make robot-is-push. Line up one robot by each gap with an "and". Make robot-is-push. Wait on flag to make flag-and-rock-and-ice-is-win.
 
+### Extra 5. Dungeon
+
+Push "baba-is-you" left 2 times. Make keke-is-you. Make baba-is-you. Push "baba-is-you" right 3 times. Make keke-is-you (vertically) pushing from right (baba should be 6 squares right of keke). Move baba above "wall". Break baba-is-you. Push "wall-is-stop" up. Make baba-is-you. Push "is-stop" down. Make baba-is-win.
 
 --------------------------------------------------------------------------------
 ## 3. Temple Ruins
@@ -336,7 +349,7 @@ Make keke-is-skull. Make skull-is-push. Make skull face right. Make skull-is-kek
 
 ### D. Salvage
 
-### E.
+### E. Insulation
 **UNSOLVED**
 
 ### Extra 1. Crumbling Floor
@@ -359,34 +372,72 @@ Make door-is-empty. Make empty-is-baba.
 
 Move left 3, up 1, down 1. Make rock-is-empty. Break empty-is-baba. Make ice-is-win.
 
-### 04.
-### 05.
-### 06.
-### 07.
+### 04. Please Hold My Key
+
+Push "key" and "baba-is-you" left to make a bridge. Push "key" and "baba-is-right" across gap to door. Make key-is-open.
+
+### 05. Horror Story
+
+Make empty-is-you. Go left 3 times. Go down to make baba-is-you.
+
+### 06. Aiming High
+
+Move cloud-is-stop one block left. Make baba-is-stop. Carry moon to star. Make dust-is-win.
+
+### 07. Trio
+
+Make keke-and-me-is-push. Make keke-and-me-is-move (keep me-is-push). Break me-is-push to drop keke into hole, heading left.
+
+### 08. Bottleneck
+
+Push rocket to right of lowest belt. Push star above single cloud. Make rocket-and-empty-is-push one row below rocket, as far right as possible (leaving baba above "push"). Make star-is-star-and-defeat.
+
+### 09. Platformer
+
+Make key-is-ufo. Make ufo-is-push. Push both ufos down into cloud just left of ice. Push keke across on "open" and "key". Leave keke standing on "key" above ufos. Push keke down into cloud. Make ufo-is-push vertically above keke. Push ufos down into ice... Push keke right onto ufo. Push "key" back up into cloud. Make keke-is-open.
+
+### 10. The Pit
+
+### 11. Heavy Words
 **UNSOLVED**
-### 08.
-**UNSOLVED**
-### 09.
-**UNSOLVED**
-### 11.
-**UNSOLVED**
-### 12.
+### 12. Guardians
 **UNSOLVED**
 
 --------------------------------------------------------------------------------
 ## 7. Flower Garden
 
-### 01.
-### 02.
-### 03.
-### 04.
-### 05.
+### 01. Condition
+
+Make grass-on-keke-is-key. Make one key. Break keke-is-key. Push key onto door.
+
+### 02. Thicket
+
+Make flag-make-moon and moon-is-open. Make baba-is-win.
+
+### 03. Sorting Facility
+
+Make belt-on-rock-is-shift and rock-is-push. Push rock onto water. Push key onto door.
+
+### 04. Relaxing Spot
+
+Make rock-on-text-is-push. Push "text" onto rock. Push rock and text through belt, onto water. Push "text" into "flag".
+
+### 05. Maritime Adventures
 **UNSOLVED**
-### 06.
+
+### 06. Got All This Stuff Here
 **UNSOLVED**
-### 07.
-**UNSOLVED**
-### Extra 2.
+
+### 07. Blockade
+
+Push pillar into middle bottom water. Make rock-is-push. Push rock to end of passage under left-most water. Make rock-is-push (vertically) on water. Make pillar-on-water-is-sink.
+
+### 09. Overgrowth
+
+Make fruit-is-you. Make baba-is-fruit. Make key-on-fruit-is-push.
+
+### 10. Adventurers
+### Extra 2. Secret Garden
 **UNSOLVED**
 
 --------------------------------------------------------------------------------
