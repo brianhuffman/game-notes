@@ -45,6 +45,8 @@ Make key-is-you, baba-is-you, ... level-is-baba.
 
 ### 10: Hostile Environment
 
+Push keke in line with "defeat", facing up/down. Make keke-is-push-and-move. Wait for keke to walk onto baba. Walk with keke until just below "defeat". Wait once and push keke so "defeat" goes past "level-is". Make flag-is-win. (Alternately, make level-is-flag.)
+
 ### Finale: A Way Out?
 
 Push Keke level with top belt, facing L/R. Push "push" on top belt. Make keke-is-move. Push "is" on second-from-right ice. Go through right-most ice. Make rock-is-push. Escape through top ice. Push rock down, make rock-is-weak. Break rock and make flag-is-win.
@@ -400,8 +402,13 @@ Make key-is-ufo. Make ufo-is-push. Push both ufos down into cloud just left of i
 
 ### 11. Heavy Words
 **UNSOLVED**
+
 ### 12. Guardians
-**UNSOLVED**
+
+Make ice-is-pull. Make an ice path from the ufo opening leading left. Make text-is-pull and empty-is-pull while baba is on ice, leaving room to break empty-is-pull by pulling/pushing text onto ice. Pull "win" past ufos onto ice. Break empty-is-pull. Make ice-is-win.
+
+### 13. Sky Hold
+
 
 --------------------------------------------------------------------------------
 ## 7. Flower Garden
@@ -449,14 +456,57 @@ Make fruit-is-you. Make baba-is-fruit. Make key-on-fruit-is-push.
 --------------------------------------------------------------------------------
 ## 9. Chasm
 
-### A.
-### B.
-### C.
-### D.
-### E.
+### A. Rocky Prison
+
+Make all-is-you. Move left/right to destroy some water. Move down to break walls. Make skull-is-win.
+
+### B. Siege
+
+Push rock into top row of water. Push "rock" and "and" into water. Push "baba-is-you" into top left corner. Make baba-is-more.
+
+### C. Elusive Condition
+
+Break hand-is-all. Make hand-is-hand and all-is-empty. Break all-is-empty. Make all-is-win.
+
+### D. Treasury
+
+Push rock to square down 1 and left 1 from starting position. Make key-is-more. Wait. Make key-is-push. Break rock-is-push. Push key to door.
+
+### E. Looking for a Heart
 **UNSOLVED**
-### F.
-### H.
+
+### F. Lava Flood
+
+Push "is" onto flag. Break flag-is-melt. Make flag-is-win.
+
+### H. Floodgates
 **UNSOLVED**
-### Extra 1.
+
+### Extra 1. Metacognition
 **UNSOLVED**
+
+--------------------------------------------------------------------------------
+
+## ???
+
+### 01. Glitch
+
+Make love-is-flag.
+
+### 02. Error
+
+Make L-O-V-E-is-M-E. Make M-E-is-flag.
+
+### 03. Whoops
+
+Make keke-is-move. Wait for keke to break ice-is-you. Push "flag-is-win" up. Make ice-is-you and ice-is-win.
+
+### 04. Mean Fence
+
+Push "win" through gap. Go down, left, up, up, right, down, down, right, up up. Make flag-is-win.
+
+### 05. Scale
+
+### 06. Parade
+
+### 07. Turn the Corner
