@@ -237,7 +237,7 @@ Make wall-is-rock. Make rock-is-win and rock-is-you.
 
 ### Extra 1. Further Fields
 
-**UNSOLVED**
+Break baba-is-move. Push "keke-is-you" up twice. Make baba-is-push. Arrange babas left of keke-is-you, facing right. Make keke-is-push. Make baba-is-move. Wait for babas to break keke-is-you, push keke across grass, remake keke-is-you.
 
 --------------------------------------------------------------------------------
 ## 4. Forest of Fall
@@ -264,7 +264,7 @@ Make ghost-is-push. Push ghost to left of "leaf". Make ghost-is-tele. Push "leaf
 
 ### 06. Crate Square
 
-**UNSOLVED**
+Line up 4 boxes to the left of flag. Pull boxes and flag left to make water-is-hot, brick-is-defeat, and flag-is-win-and-pull. Move boxes. Pull flag left. Break flag-is-win-and-pull.
 
 ### 07. Ghost Friend
 
@@ -273,6 +273,8 @@ Make ghost-is-push. Push ghost to left of "leaf". Make ghost-is-tele. Push "leaf
 ### 08. Ghost Guard
 
 **UNSOLVED**
+
+### 09. Leaf Chamber
 
 ### 10. Not There
 
@@ -285,6 +287,14 @@ Make rock-is-push. Push rock into right-most water. Make not-rock-is-push. Push 
 ### 12. Dead End
 
 Make box-is-not-not-push. Push two boxes onto water.
+
+### A. Literacy
+
+Push rock back into first room. Push "text" onto wall under "wall". Push rock to make wall-is-text.
+
+### B. Broken Playground
+
+### C. Fetching
 
 ### Extra 1. Jump
 
