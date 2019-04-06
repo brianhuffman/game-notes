@@ -280,7 +280,7 @@ Make fence-is-not-stop. Make fence-is-win.
 
 ### 11. Catch
 
-**UNSOLVED**
+Make rock-is-push. Push rock into right-most water. Make not-rock-is-push. Push other right-most water above "is". Push other water up. Make rock-is-push. Push rock into water left of "baba". Make not-baba-is-not-you.
 
 ### 12. Dead End
 
