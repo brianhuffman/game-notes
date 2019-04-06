@@ -451,7 +451,18 @@ Make fruit-is-you. Make baba-is-fruit. Make key-on-fruit-is-push.
 ## 8. Volcanic Cavern
 
 ### 01. Mouse Hole
-**UNSOLVED**
+
+Make bat-is-push. Push bat onto key. Move key all the way left. Push "bat" below key. Push "rock" and "is" above rock. Make rock-is-push. Push rock into "bat".
+
+### 02. Tour
+
+Make baba-is-you, keke-is-baba, and baba-is-keke. Make flag-is-win.
+
+### 03. Peril at Every Turn
+
+### 04. Fireplace
+
+### 07. Backstage
 
 --------------------------------------------------------------------------------
 ## 9. Chasm
