@@ -174,7 +174,7 @@ Make keke-is-push. Push keke below "stop". Break keke-is-push. Push "wall" down.
 
 ### 12. Evaporating River
 
-TODO
+Break water-is-sink. Make water-is-sink on right side of water, on row with skulls. Push "water-is-sink" left into water. Make cog-is-sink. Push cog into left-most skull. Make flag-is-win.
 
 ### Extra 1. Boiling River
 
