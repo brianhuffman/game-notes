@@ -276,6 +276,8 @@ Line up 4 boxes to the left of flag. Pull boxes and flag left to make water-is-h
 
 ### 09. Leaf Chamber
 
+Break leaf-is-move. Make leaf-is-pull, pull leaves right. Make key-is-move, wait for key. Make key-is-push, move key to top row, facing right. Make key-is-move until key is below fungus. Make leaf-is-push, move leaves to 2nd and 3rd rows from top, facing right. Make leaf-is-move until leaves are below key. Make key-is-pull and leaf-is-pull. Pull leaves down. Make leaf-is-move, then leaf-is-push; push leaf aside. Repeat. Make key-is-move.
+
 ### 10. Not There
 
 Make fence-is-not-stop. Make fence-is-win.
@@ -294,7 +296,11 @@ Push rock back into first room. Push "text" onto wall under "wall". Push rock to
 
 ### B. Broken Playground
 
+Push "flag" below "keke". Make text-is-you (pushing from above). Use box to make keke-is-you on row above water. Teleport, make "is-win" right of water. Move "keke-is-you" so "keke" is above water. Make flag-is-you, pushing from above. Make keke-is-you, pushing from below so flag teleports. Make flag-is-text to make flag-is-win. Make box-is-flag.
+
 ### C. Fetching
+
+### D. Scenic Pond
 
 ### Extra 1. Jump
 
