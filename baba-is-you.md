@@ -551,3 +551,9 @@ Push "win" through gap. Go down, left, up, up, right, down, down, right, up up. 
 ### 06. Parade
 
 ### 07. Turn the Corner
+
+Make rock-is-open-and-push, and wall-is-shut. Push rock into wall next to "sink". Make level-is-win.
+
+### 12. Ultimate Maze
+
+Push key left, down 3, right 4, down 5, left 5, into wall. Make WALL-is-KEY. Push key to make flag-is-win.
