@@ -500,17 +500,31 @@ Break hand-is-all. Make hand-is-hand and all-is-empty. Break all-is-empty. Make 
 Push rock to square down 1 and left 1 from starting position. Make key-is-more. Wait. Make key-is-push. Break rock-is-push. Push key to door.
 
 ### E. Looking for a Heart
-**UNSOLVED**
+
+Make love-is-move and rock-is-push. Push rock level with doors, facing right. Make rock-is-all (vertically). Wait to make 2 hearts. Break rock-is-all, make love-is-open and love-is-move (or love-is-push).
 
 ### F. Lava Flood
 
 Push "is" onto flag. Break flag-is-melt. Make flag-is-win.
 
+### G. Entropy
+
 ### H. Floodgates
 **UNSOLVED**
 
 ### Extra 1. Metacognition
-**UNSOLVED**
+
+Make key-is-word. Make KEY-is-push. Make KEY-is-open with key by door. Push key into door.
+
+### Extra 2. Multitool
+
+Break rock-is-hot. Push keke onto box. Make ROCK-is-push. Push rock left then right, 2 blocks under "keke". Make keke-is-ROCK. Make ROCK-is-push. Push rock to make ROCK-is-hot.
+
+### Extra 3. Broken
+
+### Extra 4. Alley
+
+### Extra 6. Visiting Baba
 
 --------------------------------------------------------------------------------
 
