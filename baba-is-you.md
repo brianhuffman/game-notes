@@ -272,7 +272,7 @@ Line up 4 boxes to the left of flag. Pull boxes and flag left to make water-is-h
 
 ### 08. Ghost Guard
 
-**UNSOLVED**
+Push rock into foliage. Teleport through leaf. Push "rock" up. Push "leaf" up three times. Make leaf-is-push, push leaf left twice. Make is-tele in bottom left corner. Push "is-push" down twice. Make leaf-is-push and leaf-is-tele while stepping onto leaf. Push leaf with key to ghost.
 
 ### 09. Leaf Chamber
 
