@@ -300,7 +300,15 @@ Push "flag" below "keke". Make text-is-you (pushing from above). Use box to make
 
 ### C. Fetching
 
+Make text-is-weak. Break skull-is-defeat. Break "weak". Make keke-is-you. Make flag-is-win. Make text-is-hot. Push "keke" into ghost.
+
 ### D. Scenic Pond
+
+Make text-has-baba. Push "keke" into water. Make baba-has-text. Walk into water to make baba-is-float. Make flag-is-win. Break baba-is-float.
+
+### E. Skeletal Door
+
+Push "text" below "baba". Put "push" below text. Push "push" to make text-is-you. Move right to make baba-is-push. Push baba onto top skull. Go up one, push baba right with "push". Go left then up to make baba-is-you.
 
 ### Extra 1. Jump
 
@@ -309,6 +317,10 @@ Push "push" through teleport. Push "love-is-tele" across water. Push "push" onto
 ### Extra 2. Even Less There
 
 Push baba-is-you left to the fence. Make fence-is-not-stop. Push baba-is-you left onto fence. Make fence-is-not-stop. Push "win" onto fence left of "not". Make fence-is-win.
+
+### Extra 3. Deep Pool
+
+Make text-has-baba. Push "keke" into lower-middle water. Make baba-has-text. Walk baba into lower-right water. Make text-has-baba. Push "baba" into upper-right water. Make baba-has-text. Walk baba into upper-middle water. Make text-has-baba. Push "baba" into upper-left water. Make baba-has-text. Walk baba into lower-left water. Make baba-has-baba. Make flag-is-win.
 
 --------------------------------------------------------------------------------
 ## 5. Deep Forest
