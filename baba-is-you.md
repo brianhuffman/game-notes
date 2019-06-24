@@ -338,7 +338,12 @@ Make wall-is-shut. Make door-is-open. Push door onto wall left of "win". Make ke
 Pull tree level with belt. Make belt-is-pull. Pull belt around left of tree. Pull belt (with tree) to corner of passage. Make tree-is-pull. Pull tree onto fungus.
 
 ### 04. Baba Doesn't Respond
-**UNSOLVED**
+
+Push baba below "push", facing left. Make belt-is-push. Put belt in bottom-right, facing right. Put second belt above it, facing down. Make baba-is-move.
+
+### 05. Patrol
+
+Make door-is-push. Push door down. Make tree-has-tree, tree-is-sink, and door-is-tree. Wait for skulls, break tree-is-sink.
 
 ### 06. Canyon
 
@@ -356,14 +361,25 @@ Alternately make keke-is-up, keke-is-right, keke-is-move to make keke push "win"
 
 Push flags onto bottom bug. Push "win" right. Push two words onto each bug. Make baba-is-win.
 
-### 10. Supermarket
-**UNSOLVED**
+### 10. Lovely House
 
-### 11. Lock the Door
-**UNSOLVED**
+Make rock-is-key-and-baba. Make key-is-push. Push key into door. Sink one baba in water.
 
-### 12. Skull House
-**UNSOLVED**
+### 11. Supermarket
+
+Make belt-is-up. Make belt-is-right. Put "right" on bottom-right of double-wide belt. Put rock on bottom-left of belt. Make belt-is-up vertically next to belt to flag.
+
+### 12. Lock the Door
+
+Break bug-is-push. Make baba-is-shift. Move bug and tree on same square near "you", facing right. Simultaneously make bug-is-shift and belt-is-shift, near fungus.
+
+### 13. Factory
+
+Make box-and-key-is-you. Move left then down to break box-and-key. Repeat. Make box-has-key. Push "and-weak" through bugs into box. Push "has" into "and". Make bug-is-defeat-and-weak. Make box-has-key. Break all boxes. Open all doors.
+
+### 14. Tiny Pasture.
+
+Make flag-is-push. Push flag onto right end of upper passage. Make keke-is-push. Push keke onto upper flag. Break keke-is-push. Push "win" onto keke. Make then break flag-is-tele. Make keke-is-shift. Make flag-is-win.
 
 ### A. Nearly
 
@@ -379,12 +395,19 @@ Make keke-is-skull. Make skull-is-push. Make skull face right. Make skull-is-kek
 
 ### D. Salvage
 
+Make text-is-pull. Push text next to "swap", retrieve "swap". Make text-is-pull-and-swap through skulls, pull back to swap skull twice. Break skull-is-defeat, break text-is-pull-and-swap, make skull-is-win.
+
 ### E. Insulation
-**UNSOLVED**
+
+Push keke left of "up". Push keke down into wall. Push "push" into wall. Make keke-is-up. Push "up" into wall. Make wall-is-stop. Make keke-is-skull. Go down.
 
 ### Extra 1. Crumbling Floor
 
 Push flags onto bottom bug. Push "win" right. Push three words onto top bug. Make baba-is-win.
+
+### Extra 2. Skull House
+
+Simultaneously make rock-is-key and rock-is-baba. Make key-is-push. Push key into door, walk one baba into water.
 
 
 --------------------------------------------------------------------------------
