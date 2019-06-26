@@ -451,8 +451,11 @@ Make key-is-ufo. Make ufo-is-push. Push both ufos down into cloud just left of i
 
 ### 10. The Pit
 
+Make star-is-you below "moon-is-you". Make moon-is-you vertically above skull. Break star-is-you. Make star-is-push. Push star above skull. Make star-is-fall. Move "push" below "you". Push "moon" down. Make star-and-moon-is-you. Push more text down onto "star". Push text into door.
+
 ### 11. Heavy Words
-**UNSOLVED**
+
+Push "star" left. Push "star-is" left. Push star down and left. Push "star" onto belt. Push "moon" right. Push "win" right. Push "is" right. Push "weak" right to make "win" fall. Push "win" right. Push "is" right to fall. Push "dust" right to make "moon" fall. Make moon-is-win. Push "weak" onto belt. Push "is" onto belt. Push "dust" onto belt to make dust-is-weak. Break dust.
 
 ### 12. Guardians
 
@@ -460,6 +463,15 @@ Make ice-is-pull. Make an ice path from the ufo opening leading left. Make text-
 
 ### 13. Sky Hold
 
+Make box-is-shut, empty-is-open, and empty-has-key. Push box to get key. Make door-is-shut. Push key into door.
+
+### Extra 1. Existential Crisis
+
+Push rocket below moon. Push baba-is-you right twice. Put "is-push" below "is-you". Push empty down into "baba" to make empty-is-you and baba-is-push. Make flag-is-win. Push baba across moons. Make baba-is-you.
+
+### Extra 2. Heavy Cloud
+
+Make star-is-push. Push "is" right then left twice to make dust-is-weak. Push star to left side of hole. Make moon-is-win-weak vertically in right side of hole. Push "dust" to top of wall. Push star to right side of wall. Push "star-is-push" next to lower hole. Push "dust" onto "star". Push "star" into lower hole, make dust-is-push.
 
 --------------------------------------------------------------------------------
 ## 7. Flower Garden
