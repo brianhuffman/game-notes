@@ -493,22 +493,37 @@ Make belt-on-rock-is-shift and rock-is-push. Push rock onto water. Push key onto
 Make rock-on-text-is-push. Push "text" onto rock. Push rock and text through belt, onto water. Push "text" into "flag".
 
 ### 05. Maritime Adventures
-**UNSOLVED**
 
-### 06. Got All This Stuff Here
-**UNSOLVED**
+Position walls just so. Make hand-is-push, put hand facing left/right level with lower opening. Make hand-on-wall-is-you and hand-is-move. Let hand make door-is-open and lava-is-defeat, then follow straight lines between walls to door.
+
+### 06. Ruined Orchard
+
+Make belt-is-push. Push belt onto lower-left fruit. Make keke-is-push. Push keke onto belt. Make key-is-push-and-open and keke-make key. Push keys into doors.
 
 ### 07. Blockade
 
 Push pillar into middle bottom water. Make rock-is-push. Push rock to end of passage under left-most water. Make rock-is-push (vertically) on water. Make pillar-on-water-is-sink.
+
+### 08. Jaywalkers United
+
+Down 2, left 7, push flag-on-rock-is-me up twice. Push rock down twice. Push rock-is-push down three times. Push rock onto flag. Loop around until kekes break rock-is-push.
 
 ### 09. Overgrowth
 
 Make fruit-is-you. Make baba-is-fruit. Make key-on-fruit-is-push.
 
 ### 10. Adventurers
-### Extra 2. Secret Garden
-**UNSOLVED**
+
+Make baba-make-belt. Set up belts leading top hand through triple-skull left to "defeat", and leading bottom hand through left room toward "win". Make hand-is-move. Make belt-is-shift. Go onto flag. Let top hand make ice-is-defeat. Let bottom hand make ice-and-flag-is-win.
+
+### Extra 1. Secret Garden
+
+Make text-on-rock-is-keke. Push "is" onto rock. Make rock-is-push, push rock onto skull. Make keke-is-push, push keke onto skull. Push keke right. Make rock-is-push. Push rock right. Make rock-on-keke-is-text. Make keke-is-push. Push keke into water. Make flag-is-win.
+
+### Extra 2. Out at Sea
+
+Make ice-is-push. Put ice on lava. Make ice-on-lava-is-text with "lava" on ice/lava. Make text-on-lava/ice-is-ice, with "on" on lava. Make ice-is-push, push ice onto belt. Make ice/lava-is-push. Push ice into door. Push lava onto box.
+
 
 --------------------------------------------------------------------------------
 ## 8. Volcanic Cavern
