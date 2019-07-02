@@ -543,7 +543,7 @@ Make baba-is-you, keke-is-baba, and baba-is-keke. Make flag-is-win.
 ### 07. Backstage
 
 --------------------------------------------------------------------------------
-## 9. Chasm
+## 8. Chasm
 
 ### A. Rocky Prison
 
@@ -559,7 +559,7 @@ Break hand-is-all. Make hand-is-hand and all-is-empty. Break all-is-empty. Make 
 
 ### D. Treasury
 
-Push rock to square down 1 and left 1 from starting position. Make key-is-more. Wait. Make key-is-push. Break rock-is-push. Push key to door.
+Push rock to square down 1 and left 1 from starting position. Make key-is-more. Wait 4 times. Make key-is-push. Break rock-is-push. Push key to doo  r.
 
 ### E. Looking for a Heart
 
@@ -571,8 +571,15 @@ Push "is" onto flag. Break flag-is-melt. Make flag-is-win.
 
 ### G. Entropy
 
+Make rock-is-you vertically. Push "rock" upward into "you" to make baba-is-rock. Make rock-has-rock-is-open. Push rock into wall. Make baba-on-rock-is-win. Make rock-has-baba and rock-is-weak. Run one rock into wall. Break rock-is-weak.
+
 ### H. Floodgates
-**UNSOLVED**
+
+Put walls above, left, and below-left of star. Put "star" right of star, and "is" below it. Make star-is-more, let grow 2, break star-is-more. Move lowest wall below bottom star. Make star-is-more, let grow 3, break. Move two walls between skulls and closest stars. Make star-is-more, let grow 2, break. Make love-is-win.
+
+### I. Lonely Sight
+
+Make baba-is-more, let grow 2. Make baba-on-baba-is-love. Make a love. Make baba-on-baba-is-rock. Make a rock in the same place. Make baba-on-baba-is-flag. Make a flag in the same place.
 
 ### Extra 1. Metacognition
 
@@ -584,9 +591,22 @@ Break rock-is-hot. Push keke onto box. Make ROCK-is-push. Push rock left then ri
 
 ### Extra 3. Broken
 
+Push rock onto ice. Push other rock onto "win". Push first rock onto "ice" to make ROCK-is-tele. Break ROCK-is-tele. Push rock onto "push". Make ROCK-is-tele to make rock-is-win.
+
 ### Extra 4. Alley
 
+Make rock-is-push vertically. Push rock 2 squares left of "push". Make rock-is-word. Make water-is-push vertically. Make ROCK-is-push. Make water-is-sink. Break water-is-push, push rock into water. Make water-is-push. Push water up into dead end. Push other water left of ROCK-is-push. Break water-is-push, push ROCK-is-push into water.
+
+### Extra 5. Keke and the Star
+
+Push "baba-is-you" down 1. Make lava-is-you, make baba-is-you. Make lava-is-you horizontally level with skulls. Push "lava-is-you" next to skulls. Make lava-is-word vertically. Push down on "lava-is-word" to make lava-is-float and LAVA-is-you. Go right to make keke-is-you.
+
 ### Extra 6. Visiting Baba
+
+Push rock into water. Break fungus-is-word. Push rock onto star. Teleport, push "is-push" left. Push other "is" onto skull. Push "rock" above "is". Teleport. Push fungus onto star. Make rock-is-word and fungus-is-word. Go through door. Push rock and fungus into water.
+
+### Extra 7. Automated Doors
+
 
 --------------------------------------------------------------------------------
 
