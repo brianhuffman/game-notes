@@ -526,23 +526,6 @@ Make ice-is-push. Put ice on lava. Make ice-on-lava-is-text with "lava" on ice/l
 
 
 --------------------------------------------------------------------------------
-## 8. Volcanic Cavern
-
-### 01. Mouse Hole
-
-Make bat-is-push. Push bat onto key. Move key all the way left. Push "bat" below key. Push "rock" and "is" above rock. Make rock-is-push. Push rock into "bat".
-
-### 02. Tour
-
-Make baba-is-you, keke-is-baba, and baba-is-keke. Make flag-is-win.
-
-### 03. Peril at Every Turn
-
-### 04. Fireplace
-
-### 07. Backstage
-
---------------------------------------------------------------------------------
 ## 8. Chasm
 
 ### A. Rocky Prison
@@ -606,6 +589,28 @@ Push "baba-is-you" down 1. Make lava-is-you, make baba-is-you. Make lava-is-you 
 Push rock into water. Break fungus-is-word. Push rock onto star. Teleport, push "is-push" left. Push other "is" onto skull. Push "rock" above "is". Teleport. Push fungus onto star. Make rock-is-word and fungus-is-word. Go through door. Push rock and fungus into water.
 
 ### Extra 7. Automated Doors
+
+
+--------------------------------------------------------------------------------
+## 9. Volcanic Cavern
+
+### 01. Tour
+
+Make baba-is-you, keke-is-baba, and baba-is-keke. Make flag-is-win.
+
+### 02. Peril at Every Turn
+
+Push "push" down into keke. Push "keke" below "baba". Simultaneously push "is" and "you" down to make keke-is-you.
+
+### 03. Pillarwork
+
+### 04. Mouse Hole
+
+Make bat-is-push. Push bat onto key. Move key all the way left. Push "bat" below key. Push "rock" and "is" above rock. Make rock-is-push. Push rock into "bat".
+
+### 07. Backstage
+
+### 08. The Heist
 
 
 --------------------------------------------------------------------------------
