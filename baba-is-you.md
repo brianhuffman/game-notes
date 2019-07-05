@@ -604,13 +604,29 @@ Push "push" down into keke. Push "keke" below "baba". Simultaneously push "is" a
 
 ### 03. Pillarwork
 
+Push three flags in a row in the bottom left corner. Put "is" above skulls. Make flag-is-pull with "pull" above "is". Make baba-is-fall. Make skull-is-grass. Pull third flag up to "flag-is-pull". Push down twice on "pull" to make flag-is-win.
+
 ### 04. Mouse Hole
 
 Make bat-is-push. Push bat onto key. Move key all the way left. Push "bat" below key. Push "rock" and "is" above rock. Make rock-is-push. Push rock into "bat".
 
+### 05. Torn Apart
+
+Push "baba-is-group" right 6. Push "group-is-you" down to make baba-is-you. Make rock-is-group. Make group-is-push. Push two rocks into lava.
+
+### 06. Vital Ingredients
+
+Make bat-is-group, skull-is-group, group-is-push, and group-is-open. Push skull and bat into doors.
+
 ### 07. Backstage
 
 ### 08. The Heist
+
+### 09. Join the Crew
+
+### 10. Automaton
+
+### 11. Trick Door
 
 
 --------------------------------------------------------------------------------
