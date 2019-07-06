@@ -681,6 +681,8 @@ Push "win" through gap. Go down, left, up, up, right, down, down, right, up up. 
 
 ### 05. Scale
 
+Break baba-is-you. Make baba-is-push. Push baba right with "not". Break baba-is-push, make baba-is-you. Make rock-is-not-you. Push "baba-is-you" right to break rock-is-not-you. Go through water to flag.
+
 ### 06. Parade
 
 ### 07. Turn the Corner
@@ -690,3 +692,15 @@ Make rock-is-open-and-push, and wall-is-shut. Push rock into wall next to "sink"
 ### 12. Ultimate Maze
 
 Push key left, down 3, right 4, down 5, left 5, into wall. Make WALL-is-KEY. Push key to make flag-is-win.
+
+### Extra 1. Across
+
+Break keke-is-move, make keke-is-push. Position one keke at bottom left facing right, the other at top right facing left. Push "baba-is-you" to center. Push "move" right of "is". Make keke-is-move, go to center left. Push baba-is-you right to make flag-is-win.
+
+### Extra 2. Castle Disaster
+
+Put "wall" below "baba". Put "win" below "wall". Push "win" up to make wall-is-you. Move right twice to make baba-is-win.
+
+### Extra 3. Hazel Den
+
+### Extra 4. Baba Has Keke
