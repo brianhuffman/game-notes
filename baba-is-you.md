@@ -622,11 +622,21 @@ Make bat-is-group, skull-is-group, group-is-push, and group-is-open. Push skull 
 
 ### 08. The Heist
 
+Push one fire through teleporter. Make text-on-fire-is-flag. Push "is" into fire. Push flag through teleporter. Push flag onto fire. Make flag-on-fire-is-text. Make fire-is-push. Push flag/fire onto teleporter. Make flag-is-open. Make text-on-fire-is-flag with "on" on fire. Make fire-is-push, push text into fire. Make flag-is-push, push flag through teleporter. Push flag into lava.
+
 ### 09. Join the Crew
+
+Push "baba-is-group" right 2. Push "rock" from above to make rock-is-group. Arrange rocks horizontally. Push "is-group" down to make baba-is-group. Push down repeatedly to make rock-is-group-is-you. Make bat-is-group vertically.
 
 ### 10. Automaton
 
 ### 11. Trick Door
+
+### 14. Broken Expectations
+
+### Extra 1: Coronation
+
+Push "swap" onto rock. Put "win" below rock. Put "is" left of rock. Make rock-is-push and text-is-swap. Push down on rock.
 
 
 --------------------------------------------------------------------------------
