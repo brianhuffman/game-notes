@@ -640,6 +640,26 @@ Push "swap" onto rock. Put "win" below rock. Put "is" left of rock. Make rock-is
 
 
 --------------------------------------------------------------------------------
+## 10. Mountaintop
+
+### 01. Shuffle
+
+Push "skull-is-defeat" up 2. Push "lonely-baba-is-you" right 4. Make lonely-skull-is-defeat.
+
+### 02. Love at First Sight
+
+Push both birds left onto hedge. Break bird-is-push, push text across birds. Make bird-is-push. Push one bird into ice right of "flag". Push text across ice to make bird-is-win.
+
+### 03. Solitude
+
+### 04. What Is Baba?
+
+### 05. Connector
+
+Make baba-is-you between walls, use baba to push "sun" to center. Put baba down-left from sun. Make sun-baba-shut with "shut" 2 above sun. Put "you" left of sun. Make baba-is-you. Move up to make sun-is-shut. Move right to open sun. Make text-is-win.
+
+
+--------------------------------------------------------------------------------
 
 ## ???
 
