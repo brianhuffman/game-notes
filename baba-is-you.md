@@ -590,6 +590,8 @@ Push rock into water. Break fungus-is-word. Push rock onto star. Teleport, push 
 
 ### Extra 7. Automated Doors
 
+Push "not" above "is" of wall-is-stop. Push "you" up belt. Make rock-is-you. Put rock left of "is-flag" while breaking rock-is-you. Make rock-is-word to turn rock into flag. Make wall-is-word and not-WALL-is-you.
+
 
 --------------------------------------------------------------------------------
 ## 9. Volcanic Cavern
