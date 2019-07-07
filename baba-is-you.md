@@ -706,3 +706,19 @@ Put "wall" below "baba". Put "win" below "wall". Push "win" up to make wall-is-y
 ### Extra 3. Hazel Den
 
 ### Extra 4. Baba Has Keke
+
+
+--------------------------------------------------------------------------------
+## ABC
+
+### 01. Lunar Gallery
+
+Make M-O-O-N-is-push. Make baba-is-H-O-T. Melt skulls. Make N-O-T-baba-is-push. Push walls open. Break N-O-T-baba-is-push.
+
+### 02. BA
+
+Make "BA-BA-is" below existing BA-BA-is. Push "you" down. Push "BA-BA-is-you" all the way right. Make rock-is-BA-BA-is-hot. Make BA-BA-is-float. Melt box. Break BA-BA-is-float.
+
+### 03. AB
+
+### 04. Queue
