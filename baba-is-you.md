@@ -654,11 +654,29 @@ Push both birds left onto hedge. Break bird-is-push, push text across birds. Mak
 
 ### 03. Solitude
 
+Push rock through lower opening. Make key-is-push. Push key onto rock. Make key-is-open. Make lonely-rock-is-push vertically with "rock" on skull. Push "lonely" left. Push rock onto water. Push box onto key.
+
 ### 04. What Is Baba?
+
+Make baba-is-move until baba is above "is". Make baba-is-up. Make baba-is-move until "is" is left of "you", then move right. Make baba-is-you. Push "baba-is-you" right 1. Push "win" between "up" and "move". Push "is" above "win". Push "baba-is-you" left until "baba" is above "win". Move down 1.
 
 ### 05. Connector
 
 Make baba-is-you between walls, use baba to push "sun" to center. Put baba down-left from sun. Make sun-baba-shut with "shut" 2 above sun. Put "you" left of sun. Make baba-is-you. Move up to make sun-is-shut. Move right to open sun. Make text-is-win.
+
+### 06. Floaty Platforms
+
+Push rocks down to make bridges to lower island on each side. Break rock-is-push. Put key on left side of top-right island. Put door on right side of top-left island. Make "rock-is-push" next to key, push key across gap to top-left island. Push door onto key.
+
+### 07. Seeking Acceptance
+
+Wait, push bird down, push bird right into "is" and "flag". Push "is-flag" down. Make bird move horizontally into "is-flag". Make flag-on-tile-is vertically on top left edge of right side tiles. Push "lonely-baba" in front of bird to make flag-on-tile-is-baba and lonely-baba-is-flag. Push bird up. Push bird left above room. Walk right to make flag. Let bird push flag across to right side. Push bird up. Push bird horizontally. Walk left to make flag. Let bird push flag across to sun.
+
+### 08. Tectonic Movements
+
+Push a pillar through upper hole on right side. Push pillar down in front of bottom hole. Go out the right-most hole on top. Push other pillar through left-most hole onto rubble. Put "is-push" above pillar. Put "pillar" two squares above "is-push". Go through lower hole to make flag-is-win. Go onto upper pillar from the right. Go up, then push pillar down. Push pillar left and up into trees.
+
+### Extra 1. The Floatiest Platforms
 
 
 --------------------------------------------------------------------------------
