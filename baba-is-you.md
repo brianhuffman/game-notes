@@ -739,4 +739,8 @@ Make "BA-BA-is" below existing BA-BA-is. Push "you" down. Push "BA-BA-is-you" al
 
 ### 03. AB
 
+Make belt-is-push. Push right-most belt up. Push "BA" below second B. Put belts above first B pointing right, above first A pointing down, and two below first B pointing up. Push "push-hot" onto lowest belt from the right, then push "BA" up. Push lowest "A" right. Push "hot" down. Make belt-is-push. Make B-AB-A-is-hot. Melt skulls.
+
 ### 04. Queue
+
+### 05. Wall
