@@ -632,7 +632,19 @@ Push "baba-is-group" right 2. Push "rock" from above to make rock-is-group. Arra
 
 ### 10. Automaton
 
+Make box-is-group. Make group-is-you. Make baba-is-group. Move box next to ice. Break box-is-group. Make me-is-group. Make ice-is-melt and statue-is-defeat. Make group-is-hot. Make box-is-group. Melt ice.
+
 ### 11. Trick Door
+
+Push ghost up. Make ghost-not-facing-wall-is-push and key-is-push. Push ghost above "is-wall". Push "tile" down and left. Make flag-is-win. Push ghost right 2, left 1, up 3. Push key onto ghost.
+
+### 12. Trapped
+
+Teleport through box. Push "shift" onto box. Push "baba" right 1 and up 2 from box. Push "is" below "baba". Push "shift" right to make baba-is-shift and teleport. Wait to push box right. Push belt down. Break baba-is-shift. Teleport and make flag-is-win.
+
+### 13. Tunnel
+
+Make bat-is-rock, rock-is-baba, and baba-is-bat. Bring all three baba/bat/rocks in a row at bottom of tunnel. Go up past skulls to love.
 
 ### 14. Broken Expectations
 
