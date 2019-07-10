@@ -648,6 +648,8 @@ Make bat-is-rock, rock-is-baba, and baba-is-bat. Bring all three baba/bat/rocks 
 
 ### 14. Broken Expectations
 
+Go through "stop". Push "push" right to break rock-is-push. Go through rock. Push "text" down to break text-is-not-push. Go through rock, make flag-is-win. Make text-is-not-push. Push "is" onto "text". Push other "is" next to "shut". Push "text/is" below "door" to make door-is-open and text-is-shut. Push "not" into door.
+
 ### Extra 1: Coronation
 
 Push "swap" onto rock. Put "win" below rock. Put "is" left of rock. Make rock-is-push and text-is-swap. Push down on rock.
