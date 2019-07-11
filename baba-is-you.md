@@ -760,3 +760,11 @@ Make belt-is-push. Push right-most belt up. Push "BA" below second B. Put belts 
 ### 04. Queue
 
 ### 05. Wall
+
+Push key into right-most door. Make W-A-L-L-is-push. Make W-A-L-L-is-open to break doors. Make A-L-L-is-push. Push hedges to expose flag. Break A-L-L-is-push.
+
+### 06. Stardrop
+
+Make S-T-A-R-is-flag. Put "flag-G" on belt left of "fall". Put "belt-is" above "G". Put "H-O-S-T" below "G" with one block space. Push "belt" down to make flag-is-fall and belt-is-G-H-O-S-T.
+
+### Extra 1. Meteor Strike
