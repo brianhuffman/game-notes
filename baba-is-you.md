@@ -768,3 +768,6 @@ Push key into right-most door. Make W-A-L-L-is-push. Make W-A-L-L-is-open to bre
 Make S-T-A-R-is-flag. Put "flag-G" on belt left of "fall". Put "belt-is" above "G". Put "H-O-S-T" below "G" with one block space. Push "belt" down to make flag-is-fall and belt-is-G-H-O-S-T.
 
 ### Extra 1. Meteor Strike
+
+Make belt-is-G-H-O-S and T-A-R-is-fall with one space gap. Push together to make belt-is-G-H-O-S-T and S-T-A-R-is-fall. Break baba-is-melt. Make baba-is-H-O-T and love-
+H-A-S-flag. Melt star and love.
