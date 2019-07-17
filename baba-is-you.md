@@ -692,6 +692,8 @@ Push a pillar through upper hole on right side. Push pillar down in front of bot
 
 ### Extra 1. The Floatiest Platforms
 
+Push rocks to connect top-left and top-right platforms. Break rock-is-push. Push "is-rock-push" off right side across from rocks. Get baba onto baba. Push key into door.
+
 
 --------------------------------------------------------------------------------
 
