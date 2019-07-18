@@ -721,9 +721,17 @@ Break baba-is-you. Make baba-is-push. Push baba right with "not". Break baba-is-
 
 ### 06. Parade
 
+Push bug down 1, right 1. Make bug-is-keke. Make is-skull-is-keke just after keke passes, with "me-keke" just right of empty space above "is". Make me-is-skull and then keke-is-skull on next step. Go through belts, push skull/keke left-right until right skull/keke makes flag-is-win and bottom skull/keke breaks keke-is-skull-is-keke.
+
 ### 07. Turn the Corner
 
 Make rock-is-open-and-push, and wall-is-shut. Push rock into wall next to "sink". Make level-is-win.
+
+### 08. VIP Area
+
+Make not-baba-is-you. Push "not" down, leaving other rock left of "keke-is-stop". Push "keke-is-stop" left. Put "is" under single wall. Push "baba-is-you" right. Make not-baba-is-you. Push right to break keke-is-stop. Push "keke" left onto keke. Make not-baba-is-you. Push "keke" left with other rock in bottom hole. Push "keke" up. Break not-baba-is-you. Make keke-is-baba. Make flag-is-win.
+
+### 09. Tense Atmosphere
 
 ### 12. Ultimate Maze
 
