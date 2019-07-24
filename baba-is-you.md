@@ -622,6 +622,8 @@ Make bat-is-group, skull-is-group, group-is-push, and group-is-open. Push skull 
 
 ### 07. Backstage
 
+Push ghost through top-left passage. Make ghost-is-fall. Make ghost-is-push. Push ghost below-left of "baba". Push keke through passage. Make keke-is-fall. Make keke-is-move. Make keke-is-fall to get keke left of baba-is-you. Make keke-is-move to push "baba-is-you" across belt. Make ghost-is-you. Break ghost-is-you with ghost facing right. Make ghost-is-move then ghost-is-fall to get ghost left of skull. Make ghost-is-move. Push "flag" down to make flag-is-win. Make keke-is-you.
+
 ### 08. The Heist
 
 Push one fire through teleporter. Make text-on-fire-is-flag. Push "is" into fire. Push flag through teleporter. Push flag onto fire. Make flag-on-fire-is-text. Make fire-is-push. Push flag/fire onto teleporter. Make flag-is-open. Make text-on-fire-is-flag with "on" on fire. Make fire-is-push, push text into fire. Make flag-is-push, push flag through teleporter. Push flag into lava.
