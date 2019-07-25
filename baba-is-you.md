@@ -735,6 +735,16 @@ Make not-baba-is-you. Push "not" down, leaving other rock left of "keke-is-stop"
 
 ### 09. Tense Atmosphere
 
+Make wall-is-not-wall. Make not-wall-is-push. Push skulls to reveal flag. Break not-wall-is-push.
+
+### 10. Tag Team
+
+Make skull-is-not-stop vertically, with "not" left of skull. Push "not" onto skull. Make rock-is-you. Make baba-is-not-baba. 
+
+### 11. Security Check
+
+Make not-baba-is-you. Put another "is" above "is". Use two rocks to push "baba" and "you" up 1. Make not-baba-is-you. Push "not" down, leaving other rock left of "keke". Push "keke-is-stop" left. Make not-baba-is-you. Push "is-stop" right and "keke" left. Break not-baba-is-you. Make not-baba-is-not-keke. Make flag-is-win.
+
 ### 12. Ultimate Maze
 
 Push key left, down 3, right 4, down 5, left 5, into wall. Make WALL-is-KEY. Push key to make flag-is-win.
