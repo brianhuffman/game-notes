@@ -62,11 +62,11 @@ Break baba-is-you-and-sink. Push text into jelly.
 
 ### 02. Turns
 
-Push rock into star. Make rock-is-sink, rock-is-push. Push rock into skull. Make crab-is-you.
+Push rock into star. Make rock-is-sink, rock-is-push. Push rock into skull. Make crab-and-baba-is-you.
 
 ### 03. Affection
 
-Make keke-is-push. Push keke in line with heart. Make keke-is-move and love-is-push.
+Make keke-is-push. Push keke in line with heart. Make keke-is-move and love-is-push. Break love-is-push.
 
 ### 04. Pillar Yard
 
@@ -110,7 +110,7 @@ Make wall-is-open and star-is-shut. Push star into wall. Break key-is-defeat. Ma
 
 ### Extra 1. Submerged Ruins
 
-Push rock 2 squares right. Break rock-is-push. Make rock-is-you and flag-is-you. Make crab-is-defeat and flag-is-win.
+Push rock 2 squares right. Break rock-is-push. Make rock-is-you and baba-is-you. Move baba past crabs. Make crab-is-defeat and flag-is-win.
 
 ### Extra 2. Sunken Temple
 
@@ -141,7 +141,7 @@ Push two words into water.
 
 ### 05. Victory Spring
 
-Push "text-is-float" and two cogs into "win" from left. Make baba-is-win.
+Push "text-is-float" and two cogs into "win" from left. Make bolt-is-win.
 
 ### 06. Research Facility
 
@@ -194,7 +194,7 @@ Make cog-is-robot. Line up is-cog-stop with bottom gap. Push robot next to it, m
 
 ### Extra 5. Dungeon
 
-Push "baba-is-you" left 2 times. Make keke-is-you. Make baba-is-you. Push "baba-is-you" right 3 times. Make keke-is-you (vertically) pushing from right (baba should be 6 squares right of keke). Move baba above "wall". Break baba-is-you. Push "wall-is-stop" up. Make baba-is-you. Push "is-stop" down. Make baba-is-win.
+Push "baba-is-you" left 2 times. Push "you" down to make keke-is-you. Make baba-is-you. Push "baba-is-you" right 3 times. Make keke-is-you (vertically) pushing from right (baba should be 6 squares right of keke). Move baba above "wall". Break baba-is-you. Push "wall-is-stop" up. Make baba-is-you. Push "is-stop" down. Make baba-is-win.
 
 --------------------------------------------------------------------------------
 ## 3. Temple Ruins
@@ -237,7 +237,8 @@ Make wall-is-rock. Make rock-is-win and rock-is-you.
 
 ### Extra 1. Further Fields
 
-Break baba-is-move. Push "keke-is-you" up twice. Make baba-is-push. Arrange babas left of keke-is-you, facing right. Make keke-is-push. Make baba-is-move. Wait for babas to break keke-is-you, push keke across grass, remake keke-is-you.
+Break baba-is-move. Push "keke-is-you" up 3. Make baba-is-push. Arrange babas left of keke-is-you, facing right. Make keke-is-push. Make baba-is-move. Wait for babas to break keke-is-you, push keke across grass, remake keke-is-you.
+
 
 --------------------------------------------------------------------------------
 ## 4. Forest of Fall
@@ -791,5 +792,4 @@ Make S-T-A-R-is-flag. Put "flag-G" on belt left of "fall". Put "belt-is" above "
 
 ### Extra 1. Meteor Strike
 
-Make belt-is-G-H-O-S and T-A-R-is-fall with one space gap. Push together to make belt-is-G-H-O-S-T and S-T-A-R-is-fall. Break baba-is-melt. Make baba-is-H-O-T and love-
-H-A-S-flag. Melt star and love.
+Make belt-is-G-H-O-S and T-A-R-is-fall with one space gap. Push together to make belt-is-G-H-O-S-T and S-T-A-R-is-fall. Break baba-is-melt. Make baba-is-H-O-T and love-H-A-S-flag. Melt star and love.
