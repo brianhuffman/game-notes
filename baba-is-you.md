@@ -245,15 +245,15 @@ Break baba-is-move. Push "keke-is-you" up 3. Make baba-is-push. Arrange babas le
 
 ### 01. Hop
 
-Push "push" through teleport. Make love-is-push. Push heart on water. Make love-is-tele.
+Push "push" through teleport. Make love-is-push. Push heart on water above flag. Make love-is-tele.
 
 ### 02. Grand Stream
 
-Break keke-is-move. Make keke-is-key and key-is-pull. Pull key to box.
+Break keke-is-move. Make keke-is-pull. Position keke level with key, facing L/R. Make keke-is-move and key-is-pull. Let keke retrieve key. Pull key to box.
 
 ### 03. Rocky Road
 
-Push "rock-is-tele" right twice. Make rock-is-push with "push" on rock. Teleport through rock, and push rock down through water.
+Push "love-is-tele" right twice. Make love-is-push with "push" on love. Teleport through love, and push love down through water.
 
 ### 04. Telephone
 
@@ -269,7 +269,7 @@ Line up 4 boxes to the left of flag. Pull boxes and flag left to make water-is-h
 
 ### 07. Ghost Friend
 
-**UNSOLVED**
+Pull ghost right 1. Make baba-is-pull and ghost-is-move. Let ghost pull baba all the way right. Make flag-is-win.
 
 ### 08. Ghost Guard
 
@@ -293,7 +293,7 @@ Make box-is-not-not-push. Push two boxes onto water.
 
 ### A. Literacy
 
-Push rock back into first room. Push "text" onto wall under "wall". Push rock to make wall-is-text.
+Push rock back into first room. Push "text" onto wall under right-most "wall". Push rock into "text" to make wall-is-text.
 
 ### B. Broken Playground
 
@@ -309,7 +309,7 @@ Make text-has-baba. Push "keke" into water. Make baba-has-text. Walk into water 
 
 ### E. Skeletal Door
 
-Push "text" below "baba". Put "push" below text. Push "push" to make text-is-you. Move right to make baba-is-push. Push baba onto top skull. Go up one, push baba right with "push". Go left then up to make baba-is-you.
+Push "text" below "baba". Put "push" below text. Push "push" to make text-is-you. Move right to make baba-is-push. Push baba onto top skull. Go up one, push baba right with "push". Go all the way left then up to make baba-is-you.
 
 ### Extra 1. Jump
 
@@ -317,7 +317,11 @@ Push "push" through teleport. Push "love-is-tele" across water. Push "push" onto
 
 ### Extra 2. Even Less There
 
-Push baba-is-you left to the fence. Make fence-is-not-stop. Push baba-is-you left onto fence. Make fence-is-not-stop. Push "win" onto fence left of "not". Make fence-is-win.
+Push baba-is-you left to the fence. Make fence-is-not-stop. Push baba-is-you left onto fence. Make fence-is-not-stop. Push "win" onto fence left of "not". Push "baba-is-you" and "fence-is-not-stop" left 1. Push "win" right to make fence-is-win.
+
+OR
+
+Make fence-is-not-stop. Make not-fence-is-win.
 
 ### Extra 3. Deep Pool
 
@@ -332,7 +336,7 @@ Make belt-is-push. Push belt onto wall. Make belt-is-shift. Repeat.
 
 ### 02. Toolshed
 
-Make wall-is-shut. Make door-is-open. Push door onto wall left of "win". Make key-is-win.
+Make wall-is-shut. Make door-is-open and door-is-push. Push door onto wall left of "win". Make key-is-win.
 
 ### 03. Keep Out!
 
@@ -372,7 +376,7 @@ Make belt-is-up. Make belt-is-right. Put "right" on bottom-right of double-wide 
 
 ### 12. Lock the Door
 
-Break bug-is-push. Make baba-is-shift. Move bug and tree on same square near "you", facing right. Simultaneously make bug-is-shift and belt-is-shift, near fungus.
+Break bug-is-push. Make baba-is-shift. Move bug and belt on same square right of "you", facing right. Simultaneously make bug-is-shift and belt-is-shift, near fungus.
 
 ### 13. Factory
 
@@ -436,19 +440,19 @@ Make empty-is-you. Go left 3 times. Go down to make baba-is-you.
 
 ### 06. Aiming High
 
-Move cloud-is-stop one block left. Make baba-is-stop. Carry moon to star. Make dust-is-win.
+Move baba-is-you one block right. Make baba-is-stop. Carry moon to star. Make dust-is-win.
 
 ### 07. Trio
 
-Make keke-and-me-is-push. Make keke-and-me-is-move (keep me-is-push). Break me-is-push to drop keke into hole, heading left.
+Make keke-and-me-is-push. Push keke and me left of skulls, facing right. Make keke-and-me-is-move (keep me-is-push). Break me-is-push to drop keke into hole, heading left.
 
 ### 08. Bottleneck
 
-Push rocket to right of lowest belt. Push star above single cloud. Make rocket-and-empty-is-push one row below rocket, as far right as possible (leaving baba above "push"). Make star-is-star-and-defeat.
+Push rocket right of lowest belt, facing left. Push star above single cloud. Make empty-and-rocket-is-push one row below rocket, as far right as possible (leaving baba above "push"). Push left 1, down 2. Make star-is-star-and-defeat.
 
 ### 09. Platformer
 
-Make key-is-ufo. Make ufo-is-push. Push both ufos down into cloud just left of ice. Push keke across on "open" and "key". Leave keke standing on "key" above ufos. Push keke down into cloud. Make ufo-is-push vertically above keke. Push ufos down into ice... Push keke right onto ufo. Push "key" back up into cloud. Make keke-is-open.
+Make key-is-ufo. Make ufo-is-push. Push both ufos down into cloud just left of ice. Push keke across on "open" and "key". Leave keke standing on "key" above ufos. Push keke down into cloud. Make ufo-is-push vertically above keke. Push ufo down into ice, push right. Push second ufo onto ice. Push keke right across ufos to door. Push "key" back up into cloud. Make keke-is-open.
 
 ### 10. The Pit
 
@@ -491,7 +495,7 @@ Make belt-on-rock-is-shift and rock-is-push. Push rock onto water. Push key onto
 
 ### 04. Relaxing Spot
 
-Make rock-on-text-is-push. Push "text" onto rock. Push rock and text through belt, onto water. Push "text" into "flag".
+Make rock-on-text-is-push. Push "keke" onto rock. Push rock and text through belt, onto water. Push "keke" into "flag".
 
 ### 05. Maritime Adventures
 
@@ -503,7 +507,7 @@ Make belt-is-push. Push belt onto lower-left fruit. Make keke-is-push. Push keke
 
 ### 07. Blockade
 
-Push pillar into middle bottom water. Make rock-is-push. Push rock to end of passage under left-most water. Make rock-is-push (vertically) on water. Make pillar-on-water-is-sink.
+Push pillar into middle bottom water. Make rock-is-push. Push rock to end of passage under left-most water. Make rock-is-push (vertically) on water. Push rock into bottom-left water. Make pillar-on-water-is-sink.
 
 ### 08. Jaywalkers United
 
@@ -543,7 +547,7 @@ Break hand-is-all. Make hand-is-hand and all-is-empty. Break all-is-empty. Make 
 
 ### D. Treasury
 
-Push rock to square down 1 and left 1 from starting position. Make key-is-more. Wait 4 times. Make key-is-push. Break rock-is-push. Push key to doo  r.
+Push rock to square down 1 and left 1 from its starting position. Make key-is-more. Wait 4 times. Make key-is-push. Break rock-is-push. Push key to door.
 
 ### E. Looking for a Heart
 
@@ -571,7 +575,7 @@ Make key-is-word. Make KEY-is-push. Make KEY-is-open with key by door. Push key 
 
 ### Extra 2. Multitool
 
-Break rock-is-hot. Push keke onto box. Make ROCK-is-push. Push rock left then right, 2 blocks under "keke". Make keke-is-ROCK. Make ROCK-is-push. Push rock to make ROCK-is-hot.
+Break rock-is-hot. Push keke onto box. Make ROCK-is-push. Push rock left then right, 2 blocks under "keke". Make keke-is-ROCK. Make ROCK-is-push. Push rock with "is-push" to make ROCK-is-hot.
 
 ### Extra 3. Broken
 
@@ -627,7 +631,7 @@ Push ghost through top-left passage. Make ghost-is-fall. Make ghost-is-push. Pus
 
 ### 08. The Heist
 
-Push one fire through teleporter. Make text-on-fire-is-flag. Push "is" into fire. Push flag through teleporter. Push flag onto fire. Make flag-on-fire-is-text. Make fire-is-push. Push flag/fire onto teleporter. Make flag-is-open. Make text-on-fire-is-flag with "on" on fire. Make fire-is-push, push text into fire. Make flag-is-push, push flag through teleporter. Push flag into lava.
+Make fire-is-push. Push one fire through teleporter. Make text-on-fire-is-flag. Push "is" into fire. Make flag-is-push, push flag through teleporter and onto fire. Make flag-on-fire-is-text. Make fire-is-push. Push "flag"/fire onto teleporter. Make flag-is-open. Make text-on-fire-is-flag with "on" on fire. Make fire-is-push, push text into fire. Make flag-is-push, push flag through teleporter. Push flag into lava.
 
 ### 09. Join the Crew
 
