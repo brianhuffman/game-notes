@@ -809,3 +809,11 @@ Make S-T-A-R-is-flag. Put "flag-G" on belt left of "fall". Put "belt-is" above "
 ### Extra 1. Meteor Strike
 
 Make belt-is-G-H-O-S and T-A-R-is-fall with one space gap. Push together to make belt-is-G-H-O-S-T and S-T-A-R-is-fall. Break baba-is-melt. Make baba-is-H-O-T and love-H-A-S-flag. Melt star and love.
+
+
+--------------------------------------------------------------------------------
+## Depths
+
+### 01. Cleaning Service
+
+Make text-is-open vertically with "open" next to door. Push "open" into door. Push "text" to end of upper passage. Make text-is-weak. Break "is" by "level". Break "text". Make skull-is-weak.
