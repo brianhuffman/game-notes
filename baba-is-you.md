@@ -738,6 +738,10 @@ Push bug down 1, right 1. Make bug-is-keke. Make is-skull-is-keke just after kek
 
 Make rock-is-open-and-push, and wall-is-shut. Push rock into wall next to "sink". Make level-is-win.
 
+AND
+
+Make flag-is-rock. Make rock-is-push-and-open, and wall-is-shut. Push rock into wall next to "sink". Push "sink" and rock into next wall. Put "and" two squares below "level-is". Push "baba-is-you" right 3. Put "win" above "and". Push "baba" up to make level-is-win-and-baba.
+
 ### 08. VIP Area
 
 Make not-baba-is-you. Push "not" down, leaving other rock left of "keke-is-stop". Push "keke-is-stop" left. Put "is" under single wall. Push "baba-is-you" right. Make not-baba-is-you. Push right to break keke-is-stop. Push "keke" left onto keke. Make not-baba-is-you. Push "keke" left with other rock in bottom hole. Push "keke" up. Break not-baba-is-you. Make keke-is-baba. Make flag-is-win.
@@ -771,6 +775,10 @@ Put "wall" below "baba". Put "win" below "wall". Push "win" up to make wall-is-y
 ### Extra 4. Baba Has Keke
 
 Make belt-is-push. Put two belts facing left toward bottom-left belt. Put two belts facing right toward top-right belt. Put "has" in the middle. Retrieve "push" and make belt-is-shift. Put "keke", "baba", and "push" on belts. Wait for baba-has-keke and cross lava. Wait for keke-has-baba and open door. Wait for baba-has-keke and cross lava.
+
+### Secret. Huh?
+
+Go below "is", go left across "flag". Put "flag" right of "is". Go across top, push "win" down to grass and back right. Push "is" onto starting position of "flag", go over it, push it back right. Push "flag" back to its starting position, go over it, push it back right. Make flag-is-win vertically with "flag" by "stop".
 
 
 --------------------------------------------------------------------------------
