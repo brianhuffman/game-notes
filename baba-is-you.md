@@ -41,7 +41,11 @@ Move left 2, up 3, right 12, down 3, left 2.
 
 ### 09: Fragile Existence
 
-Make key-is-you, baba-is-you, ... level-is-baba.
+Make key-is-you vertically. Push "key" right with baba to break key-is-you while pushing key into door. Make key-is-hot to melt door. Make wall-is-melt. Push "hot" left of key. Make key-is-you. Make level-is-hot. Make level-is-win.
+
+AND
+
+Make key-is-you. Make level-is-baba.
 
 ### 10: Hostile Environment
 
@@ -49,9 +53,9 @@ Push keke in line with "defeat", facing up/down. Make keke-is-push-and-move. Wai
 
 ### Finale: A Way Out?
 
-Push Keke level with top belt, facing L/R. Push "push" on top belt. Make keke-is-move. Push "is" on second-from-right ice. Go through right-most ice. Make rock-is-push. Escape through top ice. Push rock down, make rock-is-weak. Break rock and make flag-is-win.
+Push keke level with top belt, facing L/R. Push "push" left of top belt. Make keke-is-move. With keke's help, push "push" through left-facing belt, and onto down-facing belt. Break belt-is-shift. Push "push-rock" all the way down. Push "is" through bottom ice. Go through right-most ice. Push "rock-is" almost all the way left. Exit through top ice. Push "push" down to make rock-is-push. Push rock down, make rock-is-weak. Break rock and make flag-is-win.
 
-To get ending: Push rock left, make skull-is-box. Make flag-is-end.
+To get ending: Make flag-is-end.
 
 --------------------------------------------------------------------------------
 ## 1. The Lake
