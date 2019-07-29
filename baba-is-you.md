@@ -831,3 +831,22 @@ Make keke-is-move. Make water-is-empty. Make box-is-empty. Make love-is-empty.
 ### 03. Crushers
 
 Break belt-is-shift.
+
+--------------------------------------------------------------------------------
+## Levels with special exits
+
+### Intro
+
+* Level 09 is baba.
+* Level 10 is flag.
+
+### ???
+
+* Level 07 is baba.
+* Push rock into water to get to "Depths" area.
+* Make rock-is-level to get to Secret level "Huh?"
+
+### Depths
+
+* Level 1 is skull.
+* Push rock into water to get to Level 2.
