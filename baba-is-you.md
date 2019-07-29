@@ -818,4 +818,16 @@ Make belt-is-G-H-O-S and T-A-R-is-fall with one space gap. Push together to make
 
 ### 01. Cleaning Service
 
-Make text-is-open vertically with "open" next to door. Push "open" into door. Push "text" to end of upper passage. Make text-is-weak. Break "is" by "level". Break "text". Make skull-is-weak.
+Make text-is-open vertically with "open" next to door. Push "open" into door. Push "text" to end of upper passage. Make text-is-weak. Break "is" by "level". Break "text". Make skull-is-weak. Break skulls.
+
+THEN
+
+Make wall-is-weak. Break walls. Make level-is-skull.
+
+### 02. Exercise Hall
+
+Make keke-is-move. Make water-is-empty. Make box-is-empty. Make love-is-empty.
+
+### 03. Crushers
+
+Break belt-is-shift.
