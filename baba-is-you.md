@@ -832,7 +832,26 @@ Make keke-is-move. Make water-is-empty. Make box-is-empty. Make love-is-empty.
 
 ### 03. Crushers
 
-Break belt-is-shift.
+Push "belt" up to break belt-is-shift.
+
+THEN
+
+Push "is" above "push" right, and "push" up. Move "is" to left room. Push "weak" right 2. Move "text" below shift. Put "is" on belt. Make belt-is-text. Push "is-shift" right. Push "text" up, wait, then up again so skull is above "belt". Push "is" up. Put "belt/is" 2 squares below "is", facing up. Make text-is-shift. Make level-is-text.
+
+### 04. Collaborative Effort
+
+Make text-is-pull in center tunnel. Push "text-is-pull" across lava while pushing "you" left to make keke-is-you. Pull "skull" away from left wall. Pull "text-is-pull" left. Make skull-is-pull. Make baba-is-you. Pull lower skulls out of lower tunnel. Break skull-is-defeat, make skull-is-sink. Make keke-is-you. Break skull-is-pull. Make baba-is-you. Walk baba left and break skull. Make keke-is-you with other baba.
+
+### 05. Living Lands
+
+### Extra-3. Hidden Relic
+
+Break keke-is-move. Put "baba-is" vertically with "is" right of "you". Put "keke-is" 2 right from original "baba-is". Make baba-is-move. Push "you" right to break baba-is-move and make keke-is-you. Melt box.
+
+### Extra-4. Buried Treasure
+
+Make baba-is-keke. Make keke-is-move vertically 2 blocks right of baba-is-you. Put "baba" in upper passage. Put "is" above "keke". Push "baba" and "you" right at the same time to make baba-is-keke. Wait to make keke-is-you.
+
 
 --------------------------------------------------------------------------------
 ## Levels with special exits
@@ -853,3 +872,6 @@ Break belt-is-shift.
 
 * Level 1 is skull.
 * Push rock into water to get to Level 2.
+* Level 3 is text.
+* Make baba-is-level to get to Extra-3 and Extra-4.
+* Push key into door to get to Level 4.
