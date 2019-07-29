@@ -776,9 +776,11 @@ Put "wall" below "baba". Put "win" below "wall". Push "win" up to make wall-is-y
 
 Make belt-is-push. Put two belts facing left toward bottom-left belt. Put two belts facing right toward top-right belt. Put "has" in the middle. Retrieve "push" and make belt-is-shift. Put "keke", "baba", and "push" on belts. Wait for baba-has-keke and cross lava. Wait for keke-has-baba and open door. Wait for baba-has-keke and cross lava.
 
-### Secret. Huh?
+### Extra 6. Huh?
 
 Go below "is", go left across "flag". Put "flag" right of "is". Go across top, push "win" down to grass and back right. Push "is" onto starting position of "flag", go over it, push it back right. Push "flag" back to its starting position, go over it, push it back right. Make flag-is-win vertically with "flag" by "stop".
+
+### Extra 7. Getting Together
 
 
 --------------------------------------------------------------------------------
@@ -845,6 +847,7 @@ Break belt-is-shift.
 * Level 07 is baba.
 * Push rock into water to get to "Depths" area.
 * Make rock-is-level to get to Secret level "Huh?"
+* Make water-is-sink-and-level to get to Secret level "Getting Together".
 
 ### Depths
 
