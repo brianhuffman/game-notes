@@ -798,6 +798,8 @@ Make belt-is-push. Push right-most belt up. Push "BA" below second B. Put belts 
 
 ### 04. Queue
 
+Push one ice near keke. Make ice-near-keke-is-float and ice-is-tele. Push "I" then "keke" onto ice near keke. Push I/keke right of "baba". Make ice-is-push. Push ice onto "is". Make ice-is-tele. Push "S" onto ice near keke. Push S/is right of I/keke. Make baba-I-S-push and keke-is-push simultaneously. Push keke and baba down.
+
 ### 05. Wall
 
 Push key into right-most door. Make W-A-L-L-is-push. Make W-A-L-L-is-open to break doors. Make A-L-L-is-push. Push hedges to expose flag. Break A-L-L-is-push.
