@@ -772,6 +772,8 @@ Put "wall" below "baba". Put "win" below "wall". Push "win" up to make wall-is-y
 
 ### Extra 3. Hazel Den
 
+Push "rock" down. Make flag-is-tele. Push "rock" and "skull" onto flags. Break flag-is-tele when "rock" and "skull" appear at the same flag. Make rock/skull-is-push. Push rock and skull into water. Make flag-is-win.
+
 ### Extra 4. Baba Has Keke
 
 Make belt-is-push. Put two belts facing left toward bottom-left belt. Put two belts facing right toward top-right belt. Put "has" in the middle. Retrieve "push" and make belt-is-shift. Put "keke", "baba", and "push" on belts. Wait for baba-has-keke and cross lava. Wait for keke-has-baba and open door. Wait for baba-has-keke and cross lava.
