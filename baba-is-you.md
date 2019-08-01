@@ -844,6 +844,12 @@ Make text-is-pull in center tunnel. Push "text-is-pull" across lava while pushin
 
 ### 05. Living Lands
 
+Make flag-is-win.
+
+### Extra-1. Priority Lane
+
+### Extra-2. Fireplace
+
 ### Extra-3. Hidden Relic
 
 Break keke-is-move. Put "baba-is" vertically with "is" right of "you". Put "keke-is" 2 right from original "baba-is". Make baba-is-move. Push "you" right to break baba-is-move and make keke-is-you. Melt box.
@@ -851,6 +857,8 @@ Break keke-is-move. Put "baba-is" vertically with "is" right of "you". Put "keke
 ### Extra-4. Buried Treasure
 
 Make baba-is-keke. Make keke-is-move vertically 2 blocks right of baba-is-you. Put "baba" in upper passage. Put "is" above "keke". Push "baba" and "you" right at the same time to make baba-is-keke. Wait to make keke-is-you.
+
+### Extra-5. Endless Corridor
 
 
 --------------------------------------------------------------------------------
@@ -865,13 +873,18 @@ Make baba-is-keke. Make keke-is-move vertically 2 blocks right of baba-is-you. P
 
 * Level 07 is baba.
 * Push rock into water to get to "Depths" area.
-* Make rock-is-level to get to Secret level "Huh?"
-* Make water-is-sink-and-level to get to Secret level "Getting Together".
+* Win Depths area to get to Extra-5.
+* Make rock-is-level to get to Extra-6.
+* Make water-is-sink-and-level to get to Extra-7.
 
 ### Depths
 
 * Level 1 is skull.
 * Push rock into water to get to Level 2.
 * Level 3 is text.
-* Make baba-is-level to get to Extra-3 and Extra-4.
 * Push key into door to get to Level 4.
+* Make baba-is-grass (after Level 5) to get to Extra-1.
+* Make rock-is-level to get to Extra-2.
+* Make baba-is-level to get to Extra-3 and Extra-4.
+* Make level-is-push, then flag-is-level to get to Extra-5.
+* Level 5 is ???
