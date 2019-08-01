@@ -776,11 +776,17 @@ Put "wall" below "baba". Put "win" below "wall". Push "win" up to make wall-is-y
 
 Make belt-is-push. Put two belts facing left toward bottom-left belt. Put two belts facing right toward top-right belt. Put "has" in the middle. Retrieve "push" and make belt-is-shift. Put "keke", "baba", and "push" on belts. Wait for baba-has-keke and cross lava. Wait for keke-has-baba and open door. Wait for baba-has-keke and cross lava.
 
+### Extra 5. Orb
+
+Get orb and flag.
+
 ### Extra 6. Huh?
 
 Go below "is", go left across "flag". Put "flag" right of "is". Go across top, push "win" down to grass and back right. Push "is" onto starting position of "flag", go over it, push it back right. Push "flag" back to its starting position, go over it, push it back right. Make flag-is-win vertically with "flag" by "stop".
 
 ### Extra 7. Getting Together
+
+Make wall-is-push. Move all but four walls out of the way. Make baba-is-shift. Move flag to top under "rock". Put one wall on flag. Put one wall down-left of flag, facing right. Put 2 walls 2 squares below flag, facing up. Make rock-is-baba. Make wall-is-rock. Push lower rock up onto other rock. Break baba-is-shift, stack babas. Make rock-on-baba-is-wall vertically, with "rock" down 1 left 4 from flag. Put "is" right of rock, then push "shift-push" left to make rock-is-shift, leaving "push" on double wall. Break rock-on-baba-is-wall. Make wall-is-shift by pushing "shift" left, leaving baba on flag.
 
 
 --------------------------------------------------------------------------------
