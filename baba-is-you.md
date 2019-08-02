@@ -858,6 +858,8 @@ Make flag-is-win.
 
 ### Extra-2. Fireplace
 
+Make keke-is-push. Push keke to top. Put "skull" on bottom below flag. Put "keke" 2 blocks above and "push" 2 blocks right. Push "is" from the left to make keke-is-skull. Go right, up, right, down to make skull-is-push. Go right, then push down on skull until other skull makes flag-is-win.
+
 ### Extra-3. Hidden Relic
 
 Break keke-is-move. Put "baba-is" vertically with "is" right of "you". Put "keke-is" 2 right from original "baba-is". Make baba-is-move. Push "you" right to break baba-is-move and make keke-is-you. Melt box.
