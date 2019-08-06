@@ -874,6 +874,18 @@ Push upper "is" down then left to make keke-is-baba. Push "keke" left and "is" r
 
 
 --------------------------------------------------------------------------------
+## Meta
+
+### 01. Hot Potato
+
+Push "and" below key using "open" from the side. Push "and" up to make key level with door. Push "open" into key from the left. Make key-is-push-and-open. Push key into door.
+
+### 02. Adventure
+
+Push "text" left onto belt, then go down onto belt ahead of "text". Go up at end of belt. Make baba-near-text-is-you. Push "baba" down 3 times. Push "wall" left above "win". Push "wall-win" up to belt, let belt push "win-wall" right. Push "win" up and make belt-is-win. Push "belt-is-win" down onto belt.
+
+
+--------------------------------------------------------------------------------
 ## Levels with special exits
 
 ### Intro
