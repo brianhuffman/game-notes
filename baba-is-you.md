@@ -870,6 +870,8 @@ Make baba-is-keke. Make keke-is-move vertically 2 blocks right of baba-is-you. P
 
 ### Extra-5. Endless Corridor
 
+Push upper "is" down then left to make keke-is-baba. Push "keke" left and "is" right then down into other "is". Push "shift" right then down 4 and left 2. Push "is" left to make baba-is-shift. Go all the way down and right to get babas on the same square. Go up then left and wait to entrance to flag.
+
 
 --------------------------------------------------------------------------------
 ## Levels with special exits
