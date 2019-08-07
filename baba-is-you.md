@@ -884,6 +884,20 @@ Push "and" below key using "open" from the side. Push "and" up to make key level
 
 Push "text" left onto belt, then go down onto belt ahead of "text". Go up at end of belt. Make baba-near-text-is-you. Push "baba" down 3 times. Push "wall" left above "win". Push "wall-win" up to belt, let belt push "win-wall" right. Push "win" up and make belt-is-win. Push "belt-is-win" down onto belt.
 
+### 03. Booby Trap
+
+Go to flag.
+
+THEN
+
+Push "is" right of belt. Push "shift down, then up across belt. Push "is" down, "belt" right, then "is" up across belt. Make text-is-shift. Use text to push flag level with passage, facing right. Break text-is-shift. Push "win" onto flag, facing right. Simultaneously make flag-is-shift and text-is-shift. Break flag-is-shift and text-is-shift when text is near lava. Put other text along boundary with lava. Push "is" down to make lava-is-more-and-defeat-and-stop, push "baba" up. Make level-is-baba.
+
+### 04. Canister
+
+Push "belt-is-shift" onto belt from left, so "shift" goes down. Make belt-is-word. Push "is" onto belt above "shift" to make BELT-is-shift. Follow "is-shift" down belt, make rocket-is-shift. Push "belt-is-word" onto rocket to shift them up. Push "is-word" across belt from left. Make BELT-is-shift horizontally. Push "belt" onto belt from left to make belt-is-shift, so "belt" shifts down. Make skull-is-shift. Push "belt" onto skull to make belt-is-flag and flag-is-win.
+
+### 05. Avalanche
+
 
 --------------------------------------------------------------------------------
 ## Levels with special exits
